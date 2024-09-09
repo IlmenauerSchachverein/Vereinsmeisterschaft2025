@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1. Ilmenauer Open 2024 – Downloads</title>
-    <link>/download/</link>
+    <link>https://ilmenauerschachverein.github.io/Vereinsmeisterschaft2025/download/</link>
     <description>Recent content in Downloads on 1. Ilmenauer Open 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	  <atom:link href="/download/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://ilmenauerschachverein.github.io/Vereinsmeisterschaft2025/download/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -1,1 +1,1 @@
-# Vereinsmeisterschat 2025
+# Vereinsmeisterschaft 2024

@@ -1,5 +1,5 @@
-title: Vereinsmeisterschaft 2024
-baseURL: "https://vm24.ilmenauer-schachverein.de"
+title: Vereinsmeisterschaft 2025
+baseURL: "https://vm25.ilmenauer-schachverein.de"
 defaultContentLanguage: de
 
 
@@ -25,7 +25,7 @@ languages:
   de:
     languageName: German
     weight: 1
-    title: Vereinsmeisterschaft 2024
+    title: Vereinsmeisterschaft 2025
     contentDir: 'content/de'
     
 
@@ -52,7 +52,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024"
+      url: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2025"
       params:
         icon: github
     - name: Instagram
@@ -76,7 +76,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2024/edit/main/content"
+    base: "https://github.com/IlmenauerSchachverein/Vereinsmeisterschaft2025/edit/main/content"
 
   page:
     width: full

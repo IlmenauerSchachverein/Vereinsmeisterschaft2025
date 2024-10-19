@@ -1,8 +1,12 @@
 ---
-title: Vereinsmeisterschaft 2024
+title: Vereinsmeisterschaft 2025
 toc: false
 type: docs
 ---
+
+{{< callout type="error" >}}
+  Die Seite wurde noch nicht bearbeitet.
+{{< /callout >}}
 
 
 ## Wichtige Informationen 

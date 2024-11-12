@@ -31,6 +31,9 @@ languages:
 
 menu:
   main:
+    - name: Chess-Results
+      url: "https://chess-results.com/tnr1058956.aspx?lan=0"
+      weight: -100
     - name: Runden
       pageRef: /runde
       weight: 1

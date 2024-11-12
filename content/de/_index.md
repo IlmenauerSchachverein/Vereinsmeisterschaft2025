@@ -11,7 +11,7 @@ type: docs
 
 ## Wichtige Informationen 
 {{< cards >}}
-  {{< card link="invitation" title="Ausschreibung" icon="user" >}}
+  {{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
   {{< card link="start" title="Start Rangliste" icon="user" >}}
 {{< /cards >}}
 ## Paarungen aller Runden 

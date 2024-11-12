@@ -6,3 +6,5 @@ toc: false
 ---
 
 ## Inoffizielle Turnierauswertung nach ELO
+
+T.B.A.

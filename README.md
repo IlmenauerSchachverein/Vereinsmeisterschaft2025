@@ -1,1 +1,1 @@
-# Vereinsmeisterschaft 2024
+# Vereinsmeisterschaft 2025

@@ -7,6 +7,5 @@ weight: 2
 toc: false
 ---
 
-## Startrangliste
 
 T.B.A.

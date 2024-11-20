@@ -5,13 +5,13 @@ prev: /
 next: docs/folder/
 ---
 
-# Bedenkzeit 
+## Bedenkzeit 
 75min + 0 
 
-# Auswertung
+## Auswertung
 Das Turnier wird nicht nach ELO oder DWZ ausgewertet. 
 
-# Zeitplan
+## Zeitplan
 
 | Runde | Startdatum | Enddatum   |
 |-------|------------|------------|

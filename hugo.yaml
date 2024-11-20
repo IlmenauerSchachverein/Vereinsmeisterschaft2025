@@ -13,7 +13,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-      # linkify: true
+      linkify: true
 
   # enable hextra syntax highlight
   highlight:

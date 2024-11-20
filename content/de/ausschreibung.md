@@ -5,4 +5,4 @@ prev: /
 next: docs/folder/
 ---
 
-T.B.A.
+# Bedenkzeit 

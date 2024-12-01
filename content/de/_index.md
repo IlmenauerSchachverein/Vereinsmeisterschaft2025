@@ -34,6 +34,7 @@ Paarungen und Ranglisten gibt es auf Chess-Results und FindChessGame:
   {{< card link="runde/6" title="Paarungen Runde 6" icon="user" >}}
   {{< card link="runde/7" title="Paarungen Runde 7" icon="user" >}}
   {{< card link="runde/8" title="Paarungen Runde 8" icon="user" >}}
+  {{< card link="runde/9" title="Paarungen Runde 9" icon="user" >}}
 {{< /cards >}}
 
 ## Rangliste aller Runden 
@@ -47,6 +48,7 @@ Paarungen und Ranglisten gibt es auf Chess-Results und FindChessGame:
   {{< card link="rangliste/6" title="Rangliste nach Runde 6" icon="user" >}}
   {{< card link="rangliste/7" title="Rangliste nach Runde 7" icon="user" >}}
   {{< card link="rangliste/8" title="Rangliste nach Runde 8" icon="user" >}}
+  {{< card link="rangliste/9" title="Rangliste nach Runde 9" icon="user" >}}
 {{< /cards >}}
 
 

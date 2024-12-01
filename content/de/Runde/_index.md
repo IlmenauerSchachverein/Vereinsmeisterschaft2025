@@ -16,4 +16,5 @@ toc: true
 {{< card link="6" title="Paarungen Runde 6" icon="user" >}}
 {{< card link="7" title="Paarungen Runde 7" icon="user" >}}
 {{< card link="8" title="Paarungen Runde 8" icon="user" >}}
+{{< card link="9" title="Paarungen Runde 9" icon="user" >}}
 {{< /cards >}}

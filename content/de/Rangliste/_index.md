@@ -16,4 +16,5 @@ sidebar:
   {{< card link="6" title="Rangliste nach Runde 6" icon="user" >}}
   {{< card link="7" title="Rangliste nach Runde 7" icon="user" >}}
   {{< card link="8" title="Rangliste nach Runde 8" icon="user" >}}
+  {{< card link="9" title="Rangliste nach Runde 9" icon="user" >}}
 {{< /cards >}}

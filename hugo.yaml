@@ -2,11 +2,10 @@ title: Vereinsmeisterschaft 2025
 baseURL: "https://vm25.ilmenauer-schachverein.de"
 defaultContentLanguage: de
 
-
 # import hextra as module
 module:
- imports:
-  - path: github.com/imfing/hextra
+  imports:
+    - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -19,15 +18,12 @@ markup:
   highlight:
     noClasses: false
 
-
-
 languages:
   de:
     languageName: German
     weight: 1
     title: Vereinsmeisterschaft 2025
-    contentDir: 'content/de'
-    
+    contentDir: "content/de"
 
 menu:
   main:
@@ -63,7 +59,9 @@ menu:
       url: "https://instagram.com/ilmenauer_schachverein"
       params:
         icon: instagram
-
+services:
+  googleAnalytics:
+    ID: G-GHNT7TZVBZ
 params:
   disableToc: true
   navbar:
